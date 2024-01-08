@@ -78,7 +78,7 @@
                     </div>
                     <input type="hidden" name="selectedTownship" id="selectedTownship" value="{{$data->township}}">
 
-                    <button " class="btn bg-success mt-2">update</button>
+                    <button  class="btn bg-success mt-2">update</button>
                     <button class="btn bg-danger mt-2">Cancle</button>
                 </form>
                 @else
